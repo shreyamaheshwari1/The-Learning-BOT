@@ -35,7 +35,8 @@ In summary, the chatbot in your code integrates the embedchain library to unders
 <b>Images:</b>
 
 <b> 1. </b>
-![image](https://github.com/shreyamaheshwari1/The-Learning-BOT/assets/114720478/acb0aa2a-1a88-4cf6-b3db-d63f09dd76ea)
+![image](https://github.com/shreyamaheshwari1/Tosha-The-Learning-BOT/assets/114720478/061549ce-ab25-4245-871c-23c8c875d86d)
+
 
 <b> 2. </b>
 ![image](https://github.com/shreyamaheshwari1/The-Learning-BOT/assets/114720478/a48bb0d4-a021-4e1a-994e-ac8ecc8320df)
