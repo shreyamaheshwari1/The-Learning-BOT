@@ -1,3 +1,5 @@
+<b>CHATBOT README:</b>
+
 Meet Tosha the Learning app built using embed chain. Just enter any url and get answers to all your queries.
 
 The chatbot in my code utilizes the embedchain library, and I'll explain how it functions and retrieves answers to user queries:
@@ -30,11 +32,12 @@ The chat history is displayed within the Streamlit app. Both the user's question
 
 In summary, the chatbot in your code integrates the embedchain library to understand and respond to user queries based on the provided URLs. The chatbot accesses and processes these URLs and generates responses using a combination of pre-trained models and natural language understanding techniques. The conversation history is tracked and displayed in a chat-like format using Streamlit components. The specifics of how the chatbot works under the hood are determined by the embedchain library and the models it employs.
 
-Images:
+<b>Images:</b>
 
+<b> 1. </b>
 ![image](https://github.com/shreyamaheshwari1/The-Learning-BOT/assets/114720478/acb0aa2a-1a88-4cf6-b3db-d63f09dd76ea)
 
-
+<b> 2. </b>
 ![image](https://github.com/shreyamaheshwari1/The-Learning-BOT/assets/114720478/a48bb0d4-a021-4e1a-994e-ac8ecc8320df)
 
 
